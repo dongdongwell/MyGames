@@ -11,3 +11,4 @@ BIRD_WING_UP = 'FlappyBird/images/bird_wing_up.png'
 BIRD = 'FlappyBird/images/bird.gif'
 
 FPS = 60
+PIPE_SPACE = 200
