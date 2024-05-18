@@ -10,5 +10,9 @@ BIRD_WING_DOWN = 'FlappyBird/images/bird_wing_down.png'
 BIRD_WING_UP = 'FlappyBird/images/bird_wing_up.png'
 BIRD = 'FlappyBird/images/bird.gif'
 
-FPS = 60
 PIPE_SPACE = 200
+BIRD_FLY = 40
+BIRD_INIT_X = 40
+
+FPS = 60
+GRAVITY = 0.1
